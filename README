@@ -1,1 +1,9 @@
-This file was created by JetBrains PhpStorm 3.0 for binding GitHub repository
+File encoding: UTF-8
+
+Russian (ru-RU) spellchecking dictionary for phpStorm.
+
+Package based on Mozilla Thunderbird Russian Hunspell dictionary:
+https://addons.mozilla.org/ru/thunderbird/addon/russian-hunspell-dictionary/
+
+License:
+http://www.gnu.org/licenses/lgpl-3.0.html
